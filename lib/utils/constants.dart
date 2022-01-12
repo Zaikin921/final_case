@@ -1,0 +1,1 @@
+const String URL_GET_USERS_LIST = "https://jsonplaceholder.typicode.com/users";
